@@ -1,11 +1,7 @@
-# Homework Submissions
+Katie's Mod 4 Prework
 
-Add a label of the homework with a link to the gist/repo/..etc for each homework assignment you have completed
+* [Node Server Tutorial](https://github.com/kawilliams8/NodePractice)
 
-### List of Assignments
+* [Promise Practice Exercises](https://repl.it/@kawilliams8/Mod-4-Promises-Prework)
 
-**Week 1 (Prework)**
-
-* [Node Server Tutorial](http://frontend.turing.io/lessons/module-4/node-prework.html) - below, include a link to your Node prework repo
-
-* [Promise Practice Exercises](https://gist.github.com/robbiejaeger/dc8f55c1f9462741090862f736b82cab) - below, include a link to your Promise prework repo
+* [Web Scraping Workshop](https://github.com/kawilliams8/web-scraping-workshop)
